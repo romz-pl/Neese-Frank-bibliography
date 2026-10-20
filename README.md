@@ -26,12 +26,7 @@ He received the Gottfried Wilhelm Leibniz Prize in 2010, the most prestigious re
 
 ## Bibliography
 
-
-I'll reformat the bibliography into the style shown in the example. The example uses a numbered entry with the title in bold, followed by authors, then the journal and year in italics. Since the list is long (689 entries), I'll produce the full reformatted version.
-
-Before I do that, one thing I want to flag: the document has a few formatting quirks I'll normalize along the way. Some entries are split across lines, some have stray page numbers (like "5", "0", "21", "340") appearing as separate lines, and a few entries are duplicated (for example, entries 187 and 188, and 99/100 region items). I'll keep all entries as they appear rather than dropping any, but I'll clean up the stray numbers and fix broken line wrapping.
-
-Here is the reformatted bibliography:
+### 2026
 
 1. **Carbene transfer from thianthrenium ylides for cyclopropanation**
 Behera D., Chatterjee S., Adorjan A., ... Neese F., Ritter T.
@@ -96,6 +91,9 @@ Baldinelli L., Lerda S., Kayal R., ... De Angelis F., Bistoni G.
 16. **A comprehensive approach to incorporating intermolecular dispersion into the openCOSMO-RS model. Part 2: Atomic polarizabilities**
 Grigorash D., Muller S., Heid E., ... Smirnova I., Yan W.
 *Chemical Engineering Science, 319, 122170 2026*
+
+
+### 2025
 
 17. **Evaluation of Approximate Fourth-Order N-Electron Valence Perturbation Theory (NEVPT4(SD)) for the Excited States of Organic Molecules**
 Kempfer E.M., Sivalingam K., Neese F.
@@ -213,6 +211,9 @@ Colinet P., Neese F., Helmich-Paris B.
 Galazzo L., Maste S., Sharma B., ... Kast S.M., Bordignon E.
 *Journal of Physical Chemistry Letters, 16 2025*
 
+
+### 2024
+
 46. **Extended Active Space Ab Initio Ligand Field Theory: Applications to Transition-Metal Ions**
 Rao S.V., Maganas D., Sivalingam K., Atanasov M., Neese F.
 *Inorganic Chemistry, 63(52) 2024*
@@ -287,6 +288,10 @@ Lococciolo G., Gupta S.K., Dechert S., ... Neese F., Meyer F.
 64. **A theoretical spectroscopy study of the photoluminescence properties of narrow band Eu2+-doped phosphors containing multiple candidate doping centers. Prediction of an unprecedented narrow band red phosphor**
 Shafei R., Strobel P.J., Schmidt P.J., ... Schnick W., Neese F.
 *Physical Chemistry Chemical Physics, 26(7) 2024*
+
+
+
+### 2023
 
 65. **Nature of S-States in the Oxygen-Evolving Complex Resolved by High-Energy Resolution Fluorescence Detected X-ray Absorption Spectroscopy**
 Chrysina M., Drosou M., Castillo R.G., ... Pantazis D.A., DeBeer S.
@@ -379,6 +384,10 @@ Izsak R., Riplinger C., Blunt N.S., ... Neese F., Schopf P.
 87. **Cluster-in-Molecule Method Combined with the Domain-Based Local Pair Natural Orbital Approach for Electron Correlation Calculations of Periodic Systems**
 Wang Y., Ni Z., Neese F., ... Guo Y., Li S.
 
+
+
+### 2022
+
 88. **Comprehensive Studies of Magnetic Transitions and Spin-Phonon Couplings in the Tetrahedral Cobalt Complex Co(AsPh3)2I2**
 Moseley D.H., Liu Z., Bone A.N., ... Dunbar K.R., Xue Z.-L.
 *Inorganic Chemistry, 61(43) 2022*
@@ -442,6 +451,10 @@ DeBeer S., van Gastel M., Bill E., ... Pantazis D.A., Neese F.
 103. **First-Principles Study of Optical Absorption Energies, Ligand Field and Spin-Hamiltonian Parameters of Cr3+ Ions in Emeralds**
 Atanasov M., Andreici Eftimie E.-L., Avram N.M., Brik M.G., Neese F.
 *Inorganic Chemistry, 61(1) 2022*
+
+
+
+### 2021
 
 104. **An efficient implementation of the NEVPT2 and CASPT2 methods avoiding higher-order density matrices**
 Kollmar C., Sivalingam K., Guo Y., Neese F.
@@ -577,6 +590,10 @@ Lechner M.H., Izsak R., Nooijen M., Neese F.
 137. **Chapter 5: Theoretical Approach to Homogeneous Catalytic Reduction of CO2: Mechanistic Understanding to Build New Catalysts**
 Roy L., Mondal B., Neese F., Ye S.
 *RSC Energy and Environment Series, 2021(28) 2021*
+
+
+
+### 2021
 
 138. **57Fe Mössbauer parameters from domain based local pair-natural orbital coupled-cluster theory**
 Datta D., Saitow M., Sandhofer B., Neese F.
@@ -722,6 +739,10 @@ Liakos D.G., Guo Y., Neese F.
 Lang L., Sivalingam K., Neese F.
 *Journal of Chemical Physics, 152(1), 014109 2020*
 
+
+
+### 2019
+
 174. **Conversion of a Fleeting Open-Shell Iron Nitride into an Iron Nitrosyl**
 Chang H.-C., Lin Y.-H., Werle C., ... Bill E., Ye S.
 *Angewandte Chemie International Edition, 58(49) 2019*
@@ -853,6 +874,11 @@ Lang J., Brabec J., Saitow M., ... Neese F., Demel O.
 206. **Reduction of CO2 by a masked two-coordinate cobalt(i) complex and characterization of a proposed oxodicobalt(ii) intermediate**
 Roy L., Al-Afyouni M.H., Derosha D.E., ... Ye S., Holland P.L.
 *Chemical Science, 10(3) 2019*
+
+
+
+
+### 2018
 
 207. **A linear cobalt(II) complex with maximal orbital angular momentum from a non-Aufbau ground state**
 Bunting P.C., Atanasov M., Damgaard-Moller E., ... Neese F., Long J.R.
@@ -994,11 +1020,13 @@ Gottschalk H.C., Poblotzki A., Suhm M.A., ... Wuttke A., Mata R.A.
 Neese F.
 *Wiley Interdisciplinary Reviews Computational Molecular Science, 8(1), e1327 2018*
 
-**Book Chapter**
-
 242. **Computational Insights into Chemical Reactivity and Road to Catalyst Design: The Paradigm of CO2 Hydrogenation**
 Mondal B., Neese F., Ye S.
 *Non Noble Metal Catalysis: Molecular Approaches and Reactions, 2018*
+
+
+
+### 2017
 
 243. **A dynamic correlation dressed complete active space method: Theory, implementation, and preliminary applications**
 Pathak S., Lang L., Neese F.
@@ -1152,6 +1180,9 @@ Minenkov Y., Bistoni G., Riplinger C., ... Neese F., Cavallo L.
 Kubas A., Noak J., Trunschke A., ... Neese F., Maganas D.
 *Chemical Science, 8(9) 2017*
 
+
+### 2016
+
 281. **Effect of Conjugation Pathway in Metal-Free Room-Temperature Dual Singlet-Triplet Emitters for Organic Light-Emitting Diodes**
 Ratzke W., Schmitt L., Matsuoka H., ... Lupton J.M., Hoger S.
 *Journal of Physical Chemistry Letters, 7(22) 2016*
@@ -1279,6 +1310,10 @@ Retegan M., Krewald V., Mamedov F., ... Cox N., Pantazis D.A.
 312. **In search of metal hydrides: An X-ray absorption and emission study of [NiFe] hydrogenase model complexes**
 Hugenbruch S., Shafaat H.S., Shafaat H.S., ... Debeer S., Debeer S.
 *Physical Chemistry Chemical Physics, 18(16) 2016*
+
+
+
+### 2015
 
 313. **Molecular and Electronic Structures of Homoleptic Six-Coordinate Cobalt(I) Complexes of 2,2′:6′,2″-Terpyridine, 2,2′-Bipyridine, and 1,10-Phenanthroline. An Experimental and Computational Study**
 England J., Bill E., Weyhermuller T., ... Atanasov M., Wieghardt K.
@@ -1422,6 +1457,10 @@ Atanasov M., Aravena D., Suturina E., ... Maganas D., Neese F.
 Bjornsson R., Delgado-Jaime M.U., Lima F.A., ... Neese F., De Beer S.
 *Zeitschrift für Anorganische und Allgemeine Chemie, 641(1) 2015*
 
+
+
+### 2014
+
 349. **A first-principles approach to the calculation of the on-site zero-field splitting in polynuclear transition metal complexes**
 Retegan M., Cox N., Pantazis D.A., Neese F.
 *Inorganic Chemistry, 53(21) 2014*
@@ -1549,6 +1588,10 @@ Gansauer A., Karbaum P., Schmauch D., ... Anoop A., Neese F.
 380. **Identification of a spin-coupled Mo(III) in the nitrogenase iron-molybdenum cofactor**
 Bjornsson R., Lima F.A., Spatzal T., ... Neese F., Debeer S.
 *Chemical Science, 5(8) 2014*
+
+
+
+### 2013
 
 381. **Structural and spectroscopic investigation of an anilinosalen cobalt complex with relevance to hydrogen production**
 Kochem A., Thomas F., Jarjayes O., ... Neese F., Van Gastel M.
@@ -1698,6 +1741,9 @@ DeBeer S., Neese F.
 Atanasov M., Surawatanawong P., Wieghardt K., Neese F.
 *Coordination Chemistry Reviews, 257(1) 2013*
 
+
+### 2012
+
 418. **A functional [NiFe]-hydrogenase model compound that undergoes biologically relevant reversible thiolate protonation**
 Weber K., Kramer T., Shafaat H.S., ... Neese F., Lubitz W.
 *Journal of the American Chemical Society, 134(51) 2012*
@@ -1846,6 +1892,11 @@ Cowley R.E., Christian G.J., Brennessel W.W., Neese F., Holland P.L.
 Thiessen A., Wettach H., Meerholz K., ... Hoger S., Hertel D.
 *Organic Electronics, 13(1) 2012*
 
+
+
+
+### 2011
+
 455. **Theoretical evaluation of structural models of the S2 state in the oxygen evolving complex of photosystem II: Protonation states and magnetic interactions**
 Ames W., Pantazis D.A., Krewald V., ... Lubitz W., Neese F.
 *Journal of the American Chemical Society, 133(49) 2011*
@@ -1990,6 +2041,13 @@ Liakos D.G., Hansen A., Neese F.
 Neese F.
 *Challenges and Advances in Computational Chemistry and Physics, 13 2011*
 
+
+
+
+
+
+### 2010
+
 491. **Hydroquinoid chromium complexes bearing an acyclic conjugated bridge: Chromium-templated synthesis, molecular structure, and haptotropic metal migration**
 Hegele P., Santhamma B., Schnakenburg G., ... Neese F., Dötz K.H.
 *Organometallics, 29(23) 2010*
@@ -2113,6 +2171,10 @@ Radoul M., Sundararajan M., Potapov A., ... Neese F., Goldfarb D.
 521. **Dealing with complexity in open-shell transition metal chemistry from a theoretical perspective. Reaction pathways, bonding, spectroscopy, and magnetic properties**
 Neese F., Ames W., Christian G., ... Surawatanawong P., Shengfa Y.E.
 *Advances in Inorganic Chemistry, 62(C) 2010*
+
+
+
+### 2009
 
 522. **Comparison of two efficient approximate Hartree-Fock approaches**
 Kossmann S., Neese F.
@@ -2242,6 +2304,11 @@ Neese F.
 Astashkin A.V., Klein E.L., Ganyushin D., ... Kappler U., Enemark J.H.
 *Physical Chemistry Chemical Physics, 11(31) 2009*
 
+
+
+
+### 2008
+
 554. **Prediction of iron K-edge absorption spectra using time-dependent density functional theory**
 DeBeer George S., Petrenko T., Neese F.
 *Journal of Physical Chemistry A, 112(50) 2008*
@@ -2313,6 +2380,12 @@ Scheifele Q., Riplinger C., Neese F., ... Podlesnyak A., Tregenna-Piggott P.L.W.
 571. **A systematic density functional study of the zero-field splitting in Mn(II) coordination compounds**
 Zein S., Duboc C., Lubitz W., Neese F.
 *Inorganic Chemistry, 47(1) 2008*
+
+
+
+
+
+### 2007
 
 572. **Double-hybrid density functional theory for excited electronic states of molecules**
 Grimme S., Neese F.
@@ -2402,6 +2475,12 @@ Petrenko T., Neese F.
 Schröder D., Schwarz H., Aliaga-Alcalde N., Neese F.
 *European Journal of Inorganic Chemistry, (6) 2007*
 
+
+
+
+
+### 2006
+
 594. **Multireference ab initio calculations on reaction intermediates of the multicopper oxidases**
 Chalupský J., Neese F., Solomon E.I., Ryde U., Rulíšek L.
 *Inorganic Chemistry, 45(26) 2006*
@@ -2473,6 +2552,11 @@ Ye S., Neese F.
 611. **A critical evaluation of DFT, including time-dependent DFT, applied to bioinorganic chemistry**
 Neese F.
 *Journal of Biological Inorganic Chemistry, 11(6) 2006*
+
+
+
+
+### 2005
 
 612. **Theoretical chemistry 2005 | Theoretische Chemie 2005**
 Neese F., Schmatz S., Hättig C.
@@ -2566,6 +2650,12 @@ Van Gastel M., Fichtner C., Neese F., Lubitz W.
 Bill E., Bothe E., Chaudhuri P., ... Neese F., Wieghardt K.
 *Chemistry A European Journal, 11(1) 2005*
 
+
+
+
+
+### 2004
+
 635. **Nonoxovanadium(IV) and oxovanadium(V) complexes with mixed O, X, O-donor ligands (X = S, Se, P, or PO)**
 Paine T.K., Weyhermüller T., Slep L.D., ... Wieghardt K., Chaudhuri P.
 *Inorganic Chemistry, 43(23) 2004*
@@ -2618,6 +2708,11 @@ Neese F.
 Neese F., Munzarová M.L.
 *Calculation of NMR and EPR Parameters: Theory and Applications, 2004*
 
+
+
+
+### 2003
+
 648. **Mixed-Valent {FeIV(μ-O)(μ-carboxylato)2FeIII}3+ Core**
 Slep L.D., Mijovilovich A., Meyer-Klaucke W., ... Neese F., Wieghardt K.
 *Journal of the American Chemical Society, 125(50) 2003*
@@ -2666,6 +2761,10 @@ Neese F.
 Neese F., Solomon E.I.
 *Magnetism: Molecules to Materials IV: Nanosized Magnetic Materials, 2003*
 
+
+### 2002
+
+
 660. **Mechanism of the six-electron reduction of nitrite to ammonia by cytochrome c nitrite reductase**
 Einsle O., Messerschmidt A., Huber R., Kroneck P.M.H., Neese F.
 *Journal of the American Chemical Society, 124(39) 2002*
@@ -2710,6 +2809,12 @@ Steuber J., Rufibach M., Fritz G., Neese F., Dimroth P.
 Davis M.I., Orville A.M., Neese F., ... Lipscomb J.D., Solomon E.I.
 *Journal of the American Chemical Society, 124(4) 2002*
 
+
+
+
+
+### 2001
+
 671. **Prediction of electron paramagnetic resonance g values using coupled perturbed Hartree-Fock and Kohn-Sham theory**
 Neese F.
 *Journal of Chemical Physics, 115(24) 2001*
@@ -2725,6 +2830,10 @@ Neese F.
 674. **Theoretical study of ligand superhyperfine structure. Application to Cu(II) complexes**
 Neese F.
 *Journal of Physical Chemistry A, 105(17) 2001*
+
+
+
+### 2000
 
 675. **Electronic structure of activated bleomycin: Oxygen intermediates in heme versus non-heme iron**
 Neese F., Zaleski J.M., Zaleski K.L., Solomon E.I.
@@ -2746,6 +2855,11 @@ Solomon E.I., Brunold T.C., Davis M.I., ... Yang Y.-S., Zhou J.
 Charnock J.M., Dreusch A., Körner H., ... Kroneck P.M.H., Zumft W.G.
 *European Journal of Biochemistry, 267(5) 2000*
 
+
+
+
+### 1999
+
 680. **MCD C-term signs, saturation behavior, and determination of band polarizations in randomly oriented systems with spin S ≥ 1/2. Applications to S = 1/2 and S = 5/2**
 Neese F., Solomon E.I.
 *Inorganic Chemistry, 38(8) 1999*
@@ -2753,6 +2867,11 @@ Neese F., Solomon E.I.
 681. **Relationship between the dipole strength of ligand pre-edge transitions and metal-ligand covalency**
 Neese F., Hedman B., Hodgson K.O., Solomon E.I.
 *Inorganic Chemistry, 38(21) 1999*
+
+
+
+
+### 1998
 
 682. **Detailed spectroscopic and theoretical studies on [Fe(EDTA)(O2)]3-: Electronic structure of the side-on ferric-peroxide bond and its relevance to reactivity**
 Neese F., Solomon E.I.
@@ -2766,6 +2885,10 @@ Neese F., Solomon E.I.
 Neese F., Kappl R., Hüttermann J., Zumft W.G., Kroneck P.M.H.
 *Journal of Biological Inorganic Chemistry, 3(1) 1998*
 
+
+
+### 1997
+
 685. **The electronic structure of the mixed-valence copper dimer [Cu2{N(CH2CH2N=CHCH=NCH2CH2)3N}]3+**
 Farrar J.A., Grinter R., Neese F., Nelson J., Thomson A.J.
 *Journal of the Chemical Society, Dalton Transactions, (21) 1997*
@@ -2774,6 +2897,10 @@ Farrar J.A., Grinter R., Neese F., Nelson J., Thomson A.J.
 Solomon E.I., Zhou J., Neese F., Pavel E.G.
 *Chemistry and Biology, 4(11) 1997*
 
+
+
+### 1996
+
 687. **The electronic structure of Cu(A): A novel mixed-valence dinuclear copper electron-transfer center**
 Farrar J.A., Neese F., Lappalainen P., ... Zumft W.G., Thomson A.J.
 *Journal of the American Chemical Society, 118(46) 1996*
@@ -2781,6 +2908,10 @@ Farrar J.A., Neese F., Lappalainen P., ... Zumft W.G., Thomson A.J.
 688. **The purple mixed-valence Cu(A) center in nitrous-oxide reductase: EPR of the copper-63-, copper-65-, and both copper-65- and [15N]histidine-enriched enzyme and a molecular orbital interpretation**
 Neese F., Zumft W.G., Antholine W.E., Kroneck P.M.H.
 *Journal of the American Chemical Society, 118(36) 1996*
+
+
+
+### 1995
 
 689. **Reactions of nitric oxide with nitronyl nitroxides and oxygen: Prediction of nitrite and nitrate formation by kinetic simulation**
 Hogg N., Singh R.J., Joseph J., Neese F., Kalyanaraman B.
